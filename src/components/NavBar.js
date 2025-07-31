@@ -55,7 +55,7 @@ export const NavBar = () => {
                 <a href="https://www.instagram.com/vivek_kashyap043/?hl=en" target="_blank"><img src={instagram} alt="" /></a>
               </div>
               <HashLink to='#connect'>
-                <button className="vvd"><span>Let’s Connect</span></button>
+                <button className="vvd" style={{margin: "0 auto"}}><span>Let’s Connect</span></button>
               </HashLink>
             </span>
           </Navbar.Collapse>
