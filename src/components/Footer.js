@@ -10,7 +10,7 @@ export const Footer = () => {
         <Row className="align-items-center">
           <Col size={12}>
             <h1>Vivek Kumar Kashyap</h1>
-            <a href="https://drive.google.com/file/d/14KlZgvASZ1aOR8jcUGNLZIYFJvdp_hqP/view?usp=sharing" target="_blank" style={{color: "yellow", marginLeft: "20%"}}>View My Resume</a>
+            <a href="https://drive.google.com/file/d/1wTCseVfW0u2vMO44AruJ-BfuCOMVajr4/view?usp=sharing" target="_blank" style={{color: "yellow", marginLeft: "20%"}}>View My Resume</a>
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
