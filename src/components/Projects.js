@@ -14,10 +14,10 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Blog App",
+      title: "LikhoG",
       description: "A dynamic platform where users can create, manage, and engage with diverse articles, offering an intuitive and interactive blogging experience.",
       imgUrl: Blog,
-      url: "https://github.com/Vivekkashyap043/blog-app",
+      url: "https://github.com/Vivekkashyap043/likhog",
     },
     {
       title: "Student Service Centre",
